@@ -63,6 +63,9 @@ The dashboard includes the following visualizations:
 
 ![Blinkit Sales Dashboard Overview](Overview.png)
 
+##Dashboard Demo
+[View Dashboard Demo](Blinkit-dashboard-demo.mp4)
+
 ## Skills Demonstrated
 
 * Power BI Dashboard Development
