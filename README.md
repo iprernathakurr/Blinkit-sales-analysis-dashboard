@@ -63,7 +63,7 @@ The dashboard includes the following visualizations:
 
 ![Blinkit Sales Dashboard Overview](Overview.png)
 
-##Dashboard Demo
+### Dashboard Demo
 [View Dashboard Demo](Blinkit-dashboard-demo.mp4)
 
 ## Skills Demonstrated
